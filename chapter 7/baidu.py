@@ -1,4 +1,6 @@
 from selenium import webdriver
+import time
+
 
 driver = webdriver.Chrome()
 
@@ -7,4 +9,9 @@ driver = webdriver.Chrome()
 
 driver.get("https://www.baidu.com")
 
-quiet()
+driver.find_element_by_id("kw").send_keys("selenium")
+driver.find_element_by_id("su").click()
+
+time.sleep(5)
+
+driver.quit()
