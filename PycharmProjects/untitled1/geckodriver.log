@@ -1,0 +1,32 @@
+1510154110453	geckodriver	INFO	geckodriver 0.19.1
+1510154110469	geckodriver	INFO	Listening on 127.0.0.1:65379
+1510154112555	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\chase\\AppData\\Local\\Temp\\rust_mozprofile.Tv9x3DTZcrhJ"
+1510154112933	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510154113253	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\chase\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510154114774	Marionette	INFO	Listening on port 65388
+1510154115765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510154115814	Marionette	DEBUG	Register listener.js for window 4294967297
+1510154115840	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510154116369	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510154116370	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510154116903	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sogou.com/"
+1510154117170	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sogou.com/"
+1510154117520	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.sogou.com/"
+1510154117919	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.sogou.com/"
+1510154117919	Marionette	DEBUG	Received DOM event "unload" for "https://www.sogou.com/"
+1510154118196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sogou.com/web?query=%E5%85%89%E8%8D%A3%E4%B9%8B%E8%B7%AF%E8%87%AA%E5%8C%96%E6%B5%8B%E8%AF%95&_asf=www.sogou.com&_ast=1510154117&w=01019900&p=40040100&ie=utf8&from=index-nologin&s_from=index&sut=265&sst0=1510154117516&lkt=8%2C1510154117251%2C1510154117257&sugsuv=1510154116469741&sugtime=1510154117516"
+1510154118237	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sogou.com/web?query=%E5%85%89%E8%8D%A3%E4%B9%8B%E8%B7%AF%E8%87%AA%E5%8C%96%E6%B5%8B%E8%AF%95&_asf=www.sogou.com&_ast=1510154117&w=01019900&p=40040100&ie=utf8&from=index-nologin&s_from=index&sut=265&sst0=1510154117516&lkt=8%2C1510154117251%2C1510154117257&sugsuv=1510154116469741&sugtime=1510154117516"
+1510154121249	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\chase\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16900] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\chase\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510151199414	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
